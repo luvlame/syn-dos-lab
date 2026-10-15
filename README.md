@@ -61,4 +61,4 @@ Connectivity was verified using `ping` from the attacker to the target. Zero pac
 bash
 sudo ping -f 192.168.56.102
 
-![1](image006)
+![1](image006.png)
