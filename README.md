@@ -40,7 +40,7 @@ Both VMs were configured with:
 - **Adapter Type:** Intel PRO/1000 MT Desktop (82540EM)
 - **Promiscuous Mode:** Deny
 
-![Network adapter configuration](images/network-adapter-config.png)
+![Network adapter configuration](image001.png)
 
 ### Connectivity Verification
 
