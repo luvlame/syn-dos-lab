@@ -51,8 +51,11 @@ IP addresses were confirmed on both machines using `ip a`:
 
 Connectivity was verified using `ping` from the attacker to the target. Zero packet loss confirmed the VMs were properly networked.
 
+## Target
 ![Target IP](image002.png)
+## Attacker 
 ![Attacker IP](image003.png)
+## PingTest
 ![Ping test](image004.png)
 
 ## The Attack
