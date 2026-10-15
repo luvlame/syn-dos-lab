@@ -51,12 +51,14 @@ IP addresses were confirmed on both machines using `ip a`:
 
 Connectivity was verified using `ping` from the attacker to the target. Zero packet loss confirmed the VMs were properly networked.
 
-![Target IP](images/target-ip.png)
-![Attacker IP](images/attacker-ip.png)
-![Ping test](images/ping-test.png)
+![Target IP](image002.png)
+![Attacker IP](image003.png)
+![Ping test](image004.png)
 
 ## The Attack
 
 **Command used (from attacker VM):**
-```bash
+bash
 sudo ping -f 192.168.56.102
+
+![1](image006)
